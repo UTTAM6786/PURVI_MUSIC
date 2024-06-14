@@ -14,7 +14,7 @@
 GO TO [RELOAD.PY](https://github.com/UTTAM6786/PURVI_MUSIC/blob/main/DAXXMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 <p align="center">
-  <img src="https://telegra.ph/file/1aab3e5edf0611a7ef4cb.jpg">
+  <img src="[](https://graph.org/file/67af53614a2e01a822023.jpg)">
 </p>
 d
 <p align="center">
@@ -33,7 +33,7 @@ d
 [![Contributors](https://contrib.rocks/image?repo=UTTAM6786/PURVI_MUSIC)](https://github.com/DAXXTEAM/DAXXMUSIC/graphs/contributors)
 
 ### Contact :
-<a href="https://t.me/purvi_updates"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/Learning_BoT_HeLP"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deoxinesports@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://twitter.com/"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
