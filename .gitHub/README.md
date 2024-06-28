@@ -14,6 +14,9 @@
 GO TO [RELOAD.PY](https://github.com/UTTAM6786/PURVI_MUSIC/blob/main/DAXXMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 <p align="center">
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/UTTAM6786/PURVI_MUSIC&branch=main&name=sasta cooder_6543)
+   
   <img src="[](https://telegra.ph/file/1aab3e5edf0611a7ef4cb.jpg)">
 </p>
 d
